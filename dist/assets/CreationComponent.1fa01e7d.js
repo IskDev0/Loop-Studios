@@ -1,0 +1,1 @@
+const i={__name:"CreationComponent",setup(e){return(t,a)=>" Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ad aliquam animi aperiam at aut, consectetur ea earum et expedita itaque maxime qui quod, repudiandae sapiente sequi sit ut voluptate. "}};export{i as default};

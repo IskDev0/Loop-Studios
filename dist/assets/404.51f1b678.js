@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./index.9bdc104a.js";const r={name:"404"},c={style:{"font-size":"64px",color:"red","text-align":"center"}};function n(s,a,_,p,f,i){return t(),o("h1",c,"Error 404")}const d=e(r,[["render",n]]);export{d as default};
