@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/loop_studios/',
+  base: '/Loop-Studios/',
   plugins: [vue()],
   resolve: {
     alias: {
